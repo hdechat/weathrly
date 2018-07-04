@@ -31,3 +31,8 @@ React - Jest - Enzyme
 ![github projects](./assets/github-icon.png)  
   
 [Weather Underground API](https://www.wunderground.com/weather/api/) - GitHub Projects
+
+## Contributers  
+  
+[Helen Dechat](https://github.com/hdechat)  
+[Tyler McNamara](https://github.com/mcnamara14)
