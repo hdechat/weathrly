@@ -21,13 +21,13 @@ In this project we were given our first real interactions with ReactJS, asynchro
   
 ![react](./assets/react-icon.png)
 ![jest](./assets/jest-icon.png)
-![enzyme](./enzyme-icon.png)  
+![enzyme](./assets/enzyme-icon.png)  
   
 React - Jest - Enzyme
 
 ##Tools  
   
-![wunderground](./assets/wunderground-icon.png)
-![github projects]('./assets/github-icon.png')  
+![wunderground](./assets/wunderground-icon.jpg)
+![github projects](./assets/github-icon.png)  
   
 [Weather Underground API](https://www.wunderground.com/weather/api/) - GitHub Projects
