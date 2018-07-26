@@ -18,18 +18,9 @@ In this project we were given our first real interactions with ReactJS, asynchro
 <img width="460" alt="screen shot 2018-04-17 at 9 27 12 am" src="https://user-images.githubusercontent.com/479463/38879892-a415e540-4221-11e8-815a-1954fc585d4e.png">
 
 ## Technologies  
-  
-![react](./assets/react-icon.png)
-![jest](./assets/jest-icon.png)
-![enzyme](./assets/enzyme-icon.png)  
-  
 React - Jest - Enzyme
 
 ## Tools  
-  
-![wunderground](./assets/wunderground-icon.jpg)
-![github projects](./assets/github-icon.png)  
-  
 [Weather Underground API](https://www.wunderground.com/weather/api/) - GitHub Projects
 
 ## Contributers  
